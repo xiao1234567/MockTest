@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152" started-at="2018-05-30T05:56:33Z" finished-at="2018-05-30T05:56:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152" started-at="2018-05-30T05:56:33Z" finished-at="2018-05-30T05:56:33Z">
+      <class name="testDemo.mocktestRegister">
+        <test-method status="PASS" signature="testRegister1()[pri:0, instance:testDemo.mocktestRegister@71423665]" name="testRegister1" duration-ms="97" started-at="2018-05-30T13:56:33Z" finished-at="2018-05-30T13:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister1 -->
+        <test-method status="PASS" signature="testRegister2()[pri:0, instance:testDemo.mocktestRegister@71423665]" name="testRegister2" duration-ms="4" started-at="2018-05-30T13:56:33Z" finished-at="2018-05-30T13:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister2 -->
+      </class> <!-- testDemo.mocktestRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
